@@ -15,7 +15,6 @@ class TicTacToe {
             [0, 4, 8], [2, 4, 6]           
         ];
         
-        // Audio settings
         this.audioContext = null;
         this.soundEnabled = true;
         this.volume = 0.5;
